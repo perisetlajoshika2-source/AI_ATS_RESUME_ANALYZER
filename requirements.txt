@@ -1,0 +1,15 @@
+
+streamlit
+fastapi
+uvicorn
+python-multipart
+pypdf
+python-docx
+groq
+python-dotenv
+requests
+sentence-transformers
+scikit-learn
+numpy
+groq
+python-dotenv
